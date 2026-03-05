@@ -1,8 +1,8 @@
 # ELT Pipeline with dbt — GitHub Repository Scoring
 
 ## Authors
-ARAUJO COSTA João
-FLICHY Astrid
+- ARAUJO COSTA João
+- FLICHY Astrid
 
 ## Overview
 
