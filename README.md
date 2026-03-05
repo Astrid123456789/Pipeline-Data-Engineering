@@ -1,5 +1,9 @@
 # ELT Pipeline with dbt — GitHub Repository Scoring
 
+## Authors
+ARAUJO COSTA João
+FLICHY Astrid
+
 ## Overview
 
 This lab consists of building a complete ELT pipeline to analyze the activity of several GitHub repositories and produce a scoring system that allows comparing open-source projects.
